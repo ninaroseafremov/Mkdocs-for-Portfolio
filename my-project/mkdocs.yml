@@ -1,0 +1,15 @@
+site_name: Nina's Final Project
+nav:
+  - Home: index.md
+  - About: about.md
+  - Structured Authoring in DITA: dita.md
+  - Static Site: staticsite.md
+  - The Takeaway: takeaway.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  palette:
+    Scheme: Default
+    primary: pink
